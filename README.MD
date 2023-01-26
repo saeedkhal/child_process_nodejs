@@ -16,7 +16,7 @@ npm i
 pip i rembg
 ```
 
-## to run the app run 
+## to run the app
 ```shell
 node app.js
 ```
