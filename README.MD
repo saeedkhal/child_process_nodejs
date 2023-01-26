@@ -1,4 +1,4 @@
-this repo is usin chuld process in node js to remove background image using python code
+This repo is using child process in node.js to remove background image using python code
 
 ## install packages using 
 ```shell 
