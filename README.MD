@@ -8,8 +8,7 @@ npm i
 ## install python in your machin 
 
 <a href="https://www.python.org/downloads/" target="_blank">
- [logo]: https://www.python.org/static/img/python-logo@2x.png "Logo Title Text 2"
-
+ python
 </a>
 
 ## install packages used in your python code 
