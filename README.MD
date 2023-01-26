@@ -1,18 +1,17 @@
 this repo is usin chuld process in node js to remove background image using python code
 
 ## install packages using 
-`code 
+```shell 
 	npm i
-`
+```
 
 ## install python3 in your machin 
 ## install packages used in your python code 
-`shell
+```shell
 	 pip i rembg
-`
+```
 
 ## to run the app run 
-`shell
+```shell
 	node app.js
-
-`
+```
